@@ -100,7 +100,7 @@ try {
 
 ![SendSMS Response](https://cloud.githubusercontent.com/assets/2946769/14465033/451179c4-00c9-11e6-881e-bcc92665fa7c.png)
 
-### Send an SMS
+### Send a Bulk SMS
 
 ```php
 
@@ -135,7 +135,7 @@ try {
 
 **Response Info for Developer**
 
-![Send BulkSMS Response](https://res.cloudinary.com/dozie/image/upload/v1538040544/jusibe-response01_ddxv25.png)
+![Send BulkSMS Response](https://user-images.githubusercontent.com/19904579/46137560-cf37bf00-c241-11e8-9dc6-7096bb0278f4.png)
 
 ### Check SMS Credits
 
@@ -224,7 +224,7 @@ try {
 
 **Response Info for Developer**
 
-![Check Bulk Delivery Status Response](https://res.cloudinary.com/dozie/image/upload/v1538040543/jusibe02_qbyyeu.png)
+![Check Bulk Delivery Status Response](https://user-images.githubusercontent.com/19904579/46137669-0a39f280-c242-11e8-9143-8b3ec68ed84f.png)
 
 ## Contributing
 
