@@ -57,7 +57,7 @@ $jusibe->checkDeliveryStatus('8nb1wrgdjw')->getResponse();
 
 /**
  * Check the delivery status of a sent Bulk SMS
- * @param  string $messageID
+ * @param  string $bulkID
  * @return object
  */
 $jusibe->checkBulkDeliveryStatus('8nb1wrgdjw')->getResponse();
